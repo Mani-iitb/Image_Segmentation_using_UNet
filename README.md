@@ -37,6 +37,8 @@ The U-Net is composed of:
 | Mean IoU         | [0.9019, 0.8251, 0.5387] |
 | Dice Coefficient | [0.9479, 0.9028, 0.6989] |
 
+![results](images/unet_result.png)
+
 ## Dataset
 
 - Can be used with Oxford-IIIT Pet Dataset.
